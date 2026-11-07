@@ -22,6 +22,22 @@
     </itunes:owner>
 
     <item>
+      <title>EP02: 戒掉空腹咖啡摆脱算法焦虑（腺苷清除与皮质醇时序重构）</title>
+      <description><![CDATA[你以为早晨起床一杯美式是自律与高效？神经科学真相会让你大吃一惊：起床后体内天然皮质醇正处于峰值，此时灌入咖啡因不仅无法提神，还会阻断腺苷清除机制，导致午后精神断崖式崩盘与深层焦虑。今天我们从 Huberman 神经机制切入，讲透如何用90分钟时序法则与AI工作流，重构你一整天的精力闭环。
+
+【本期核心要点】
+1. 身体微习惯：起床先补 500ml 温水加微量矿物质，将第一杯咖啡推迟至醒后 90-120 分钟；
+2. 认知思维模型：创作心理锚点与精力折现率，不被即时算法反馈绑架；
+3. AI生产力外挂：把低脑力、重复性碎片沟通外包给自动化 Agent，把最高清晨精力留给深度创造。]]></description>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">v20261107-戒掉空腹咖啡摆脱算法焦虑_20261107.mp3</guid>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261107/EP02_20261107.mp3" length="9146348" type="audio/mpeg"/>
+      <itunes:duration>06:38</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/michaelkowk/DailySmart-Podcast/main/cover_v2_titanium_gold.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>EP01: 别把精力浪费在假勤奋上（复合效应与微决策破局）</title>
       <description><![CDATA[你以为每天打卡、苦心孤诣就是复利？错！如果你的身体基础处于负平衡，或者天天被琐碎微决策凌迟，你的一切努力都是‘负复利’。今天我们从神经科学与AI自动化切入，教你如何用傻瓜式动作重构底层系统。
 
@@ -32,7 +48,6 @@
       <pubDate>Fri, 06 Nov 2026 06:00:00 +0800</pubDate>
       <guid isPermaLink="false">v20261106-别把精力浪费在假勤奋上_20261106.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261106/EP01_20261106.mp3" length="7169516" type="audio/mpeg"/>
-
       <itunes:duration>05:12</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/michaelkowk/DailySmart-Podcast/main/cover_v2_titanium_gold.jpg"/>
       <itunes:explicit>false</itunes:explicit>
