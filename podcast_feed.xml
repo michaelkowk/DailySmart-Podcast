@@ -9,7 +9,7 @@
     <description>专注肉体、大脑与AI工具的全面进化。每天8分钟双人硬核播客：1个身体健康微习惯 × 1个降维思维模型 × 1个AI生产力外挂。做真实的肉身践行者与超级个体。</description>
     <itunes:author>DailySmart</itunes:author>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v2_titanium_gold.jpg"/>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg"/>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Alternative Health"/>
     </itunes:category>
@@ -33,7 +33,7 @@
       <guid isPermaLink="false">v20261107-戒掉空腹咖啡摆脱算法焦虑_20261107.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261107/EP02_20261107.mp3" length="9146348" type="audio/mpeg"/>
       <itunes:duration>06:38</itunes:duration>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v2_titanium_gold.jpg"/>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">v20261106-别把精力浪费在假勤奋上_20261106.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261106/EP01_20261106.mp3" length="7169516" type="audio/mpeg"/>
       <itunes:duration>05:12</itunes:duration>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v2_titanium_gold.jpg"/>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
