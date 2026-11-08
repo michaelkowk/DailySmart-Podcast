@@ -2,11 +2,11 @@
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DailySmart 每日进化 | 肉体 × 认知 × AI</title>
-    <link>https://github.com/michaelkowk/DailySmart-Podcast</link>
+    <link>https://github.com/safeh/DailySmart</link>
     <language>zh-cn</language>
     <description>每天 8 分钟双人深度探讨：1个身体健康微习惯 × 1个降维思维模型 × 1个AI生产力外挂。做真实的肉身践行者与超级个体。</description>
     <ns0:author>DailySmart</ns0:author>
-    <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+    <ns0:image href="https://raw.githubusercontent.com/safeh/DailySmart/main/assets/cover.jpg" />
     <ns0:category text="Health &amp; Fitness">
       <ns0:category text="Alternative Health" />
     </ns0:category>
@@ -14,6 +14,15 @@
       <ns0:name>DailySmart</ns0:name>
       <ns0:email>nickoo@qq.com</ns0:email>
     </ns0:owner>
+    <item>
+      <title>《DailySmart》第 20261108 期: 深夜刷手机停不下来怎么办</title>
+      <description>本期深度探讨了现代人普遍遭遇的“报复性熬夜”现象。从神经生物学来看，日间前额叶皮层能量耗竭（Ego Depletion）导致自控力断崖暴跌，多巴胺基线降至谷底时，大脑会陷入求生本能式的廉价快感抓取，而屏幕蓝光则彻底抑制了褪黑素分泌。从心理层面分析，这折射出‘补偿性控制感错觉’——白天的时间被外部事务剥夺，夜晚刷手机是潜意识在无能狂怒地抢夺‘属于自己的时间’。破局的关键在于摒弃靠意志力自律的执念，通过 AI 晚间自动化关机协议（Nightly Shutdown SOP）聚合全天未结事项并切断蔡加尼克效应，辅以手机屏幕灰度化和物理隔离的极简微动作，彻底解放大脑带宽。</description>
+      <pubDate>Sun, 08 Nov 2026 06:12:23 GMT</pubDate>
+      <guid isPermaLink="false">深夜刷手机停不下来怎么办_20261108.mp3</guid>
+      <enclosure url="https://safeh.example.com/podcast/audio/深夜刷手机停不下来怎么办_20261108.mp3" length="13913900" type="audio/mpeg" />
+      <ns0:duration>09:39</ns0:duration>
+      <ns0:summary>本期深度探讨了现代人普遍遭遇的“报复性熬夜”现象。从神经生物学来看，日间前额叶皮层能量耗竭（Ego Depletion）导致自控力断崖暴跌，多巴胺基线降至谷底时，大脑会陷入求生本能式的廉价快感抓取，而屏幕蓝光则彻底抑制了褪黑素分泌。从心理层面分析，这折射出‘补偿性控制感错觉’——白天的时间被外部事务剥夺，夜晚刷手机是潜意识在无能狂怒地抢夺‘属于自己的时间’。破局的关键在于摒弃靠意志力自律的执念，通过 AI 晚间自动化关机协议（Nightly Shutdown SOP）聚合全天未结事项并切断蔡加尼克效应，辅以手机屏幕灰度化和物理隔离的极简微动作，彻底解放大脑带宽。</ns0:summary>
+    </item>
     <item>
       <title>EP03: 别让早起第一杯咖啡毁了你（腺苷清除与复利破局）</title>
       <description>本期聚焦三大硬核模块：1. 身体健康：解析咖啡因与腺苷受体竞争机制，指出起床90分钟内喝咖啡会导致下午皮质醇反弹崩溃（神经生物学硬核机制），并交付极简傻瓜日常动作；2. 认知思维：拆解行动复利的底层逻辑，痛击用「准备和表演努力」代替实际产出的认知伪勤奋陷阱；3. AI前沿：探讨如何用开源AI Agent和上下文工程外包低效琐事，将清醒精力留给高维创造。</description>
