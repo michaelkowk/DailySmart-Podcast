@@ -1,56 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DailySmart 每日进化 | 肉体 × 认知 × AI</title>
     <link>https://github.com/michaelkowk/DailySmart-Podcast</link>
     <language>zh-cn</language>
-    <description>专注肉体、大脑与AI工具的全面进化。每天8分钟双人硬核播客：1个身体健康微习惯 × 1个降维思维模型 × 1个AI生产力外挂。做真实的肉身践行者与超级个体。</description>
-    <itunes:author>DailySmart</itunes:author>
-    <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg"/>
-    <itunes:category text="Health &amp; Fitness">
-      <itunes:category text="Alternative Health"/>
-    </itunes:category>
-    <itunes:category text="Technology"/>
-    <itunes:category text="Education"/>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>DailySmart</itunes:name>
-      <itunes:email>nickoo@qq.com</itunes:email>
-    </itunes:owner>
-
+    <description>每天 8 分钟双人深度探讨：1个身体健康微习惯 × 1个降维思维模型 × 1个AI生产力外挂。做真实的肉身践行者与超级个体。</description>
+    <ns0:author>DailySmart</ns0:author>
+    <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+    <ns0:category text="Health &amp; Fitness">
+      <ns0:category text="Alternative Health" />
+    </ns0:category>
+    <ns0:owner>
+      <ns0:name>DailySmart</ns0:name>
+      <ns0:email>nickoo@qq.com</ns0:email>
+    </ns0:owner>
+    <item>
+      <title>EP03: 别让早起第一杯咖啡毁了你（腺苷清除与复利破局）</title>
+      <description>本期聚焦三大硬核模块：1. 身体健康：解析咖啡因与腺苷受体竞争机制，指出起床90分钟内喝咖啡会导致下午皮质醇反弹崩溃（神经生物学硬核机制），并交付极简傻瓜日常动作；2. 认知思维：拆解行动复利的底层逻辑，痛击用「准备和表演努力」代替实际产出的认知伪勤奋陷阱；3. AI前沿：探讨如何用开源AI Agent和上下文工程外包低效琐事，将清醒精力留给高维创造。</description>
+      <pubDate>Sun, 08 Nov 2026 04:40:15 GMT</pubDate>
+      <guid isPermaLink="false">别让早起第一杯咖啡毁了你_20261108.mp3</guid>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261108/EP03_20261108.mp3" length="11410604" type="audio/mpeg" />
+      <ns0:duration>07:55</ns0:duration>
+      <ns0:summary>本期聚焦三大硬核模块：1. 身体健康：解析咖啡因与腺苷受体竞争机制，指出起床90分钟内喝咖啡会导致下午皮质醇反弹崩溃（神经生物学硬核机制），并交付极简傻瓜日常动作；2. 认知思维：拆解行动复利的底层逻辑，痛击用「准备和表演努力」代替实际产出的认知伪勤奋陷阱；3. AI前沿：探讨如何用开源AI Agent和上下文工程外包低效琐事，将清醒精力留给高维创造。</ns0:summary>
+    </item>
     <item>
       <title>EP02: 戒掉空腹咖啡摆脱算法焦虑（腺苷清除与皮质醇时序重构）</title>
-      <description><![CDATA[你以为早晨起床一杯美式是自律与高效？神经科学真相会让你大吃一惊：起床后体内天然皮质醇正处于峰值，此时灌入咖啡因不仅无法提神，还会阻断腺苷清除机制，导致午后精神断崖式崩盘与深层焦虑。今天我们从 Huberman 神经机制切入，讲透如何用90分钟时序法则与AI工作流，重构你一整天的精力闭环。
+      <description>你以为早晨起床一杯美式是自律与高效？神经科学真相会让你大吃一惊：起床后体内天然皮质醇正处于峰值，此时灌入咖啡因不仅无法提神，还会阻断腺苷清除机制，导致午后精神断崖式崩盘与深层焦虑。今天我们从 Huberman 神经机制切入，讲透如何用90分钟时序法则与AI工作流，重构你一整天的精力闭环。
 
 【本期核心要点】
 1. 身体微习惯：起床先补 500ml 温水加微量矿物质，将第一杯咖啡推迟至醒后 90-120 分钟；
 2. 认知思维模型：创作心理锚点与精力折现率，不被即时算法反馈绑架；
-3. AI生产力外挂：把低脑力、重复性碎片沟通外包给自动化 Agent，把最高清晨精力留给深度创造。]]></description>
+3. AI生产力外挂：把低脑力、重复性碎片沟通外包给自动化 Agent，把最高清晨精力留给深度创造。</description>
       <pubDate>Sat, 07 Nov 2026 06:00:00 +0800</pubDate>
       <guid isPermaLink="false">v20261107-戒掉空腹咖啡摆脱算法焦虑_20261107.mp3</guid>
-      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261107/EP02_20261107.mp3" length="9146348" type="audio/mpeg"/>
-      <itunes:duration>06:38</itunes:duration>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261107/EP02_20261107.mp3" length="9146348" type="audio/mpeg" />
+      <ns0:duration>06:38</ns0:duration>
+      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <ns0:explicit>false</ns0:explicit>
     </item>
-
     <item>
       <title>EP01: 别把精力浪费在假勤奋上（复合效应与微决策破局）</title>
-      <description><![CDATA[你以为每天打卡、苦心孤诣就是复利？错！如果你的身体基础处于负平衡，或者天天被琐碎微决策凌迟，你的一切努力都是‘负复利’。今天我们从神经科学与AI自动化切入，教你如何用傻瓜式动作重构底层系统。
+      <description>你以为每天打卡、苦心孤诣就是复利？错！如果你的身体基础处于负平衡，或者天天被琐碎微决策凌迟，你的一切努力都是‘负复利’。今天我们从神经科学与AI自动化切入，教你如何用傻瓜式动作重构底层系统。
 
 【本期核心要点】
 1. 身体微习惯：晨间皮质醇自然时序与推迟90分钟咖啡因摄入；
 2. 认知思维模型：复合效应与内部积分卡；
-3. AI生产力外挂：用AI Agent外包每日低价值碎片沟通。]]></description>
+3. AI生产力外挂：用AI Agent外包每日低价值碎片沟通。</description>
       <pubDate>Fri, 06 Nov 2026 06:00:00 +0800</pubDate>
       <guid isPermaLink="false">v20261106-别把精力浪费在假勤奋上_20261106.mp3</guid>
-      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261106/EP01_20261106.mp3" length="7169516" type="audio/mpeg"/>
-      <itunes:duration>05:12</itunes:duration>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261106/EP01_20261106.mp3" length="7169516" type="audio/mpeg" />
+      <ns0:duration>05:12</ns0:duration>
+      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <ns0:explicit>false</ns0:explicit>
     </item>
   </channel>
 </rss>
