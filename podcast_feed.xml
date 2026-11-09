@@ -1,19 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>DailySmart 每日进化 | 肉体 × 认知 × AI</title>
     <link>https://github.com/michaelkowk/DailySmart-Podcast</link>
     <language>zh-cn</language>
     <description>每天 8 分钟双人深度探讨：1个身体健康微习惯 × 1个降维思维模型 × 1个AI生产力外挂。做真实的肉身践行者与超级个体。</description>
-    <ns0:author>DailySmart</ns0:author>
-    <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-    <ns0:category text="Health &amp; Fitness">
-      <ns0:category text="Alternative Health" />
-    </ns0:category>
-    <ns0:owner>
-      <ns0:name>DailySmart</ns0:name>
-      <ns0:email>nickoo@qq.com</ns0:email>
-    </ns0:owner>
+    <itunes:author>DailySmart</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Alternative Health" />
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>DailySmart</itunes:name>
+      <itunes:email>nickoo@qq.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>EP04: 下午两点大脑断电？用10分钟神经重置与AI工作流干掉午后昏睡</title>
+      <description>下午两三点整个人像被拔掉插头，脑子一片浆糊？狂灌能量饮料越喝越心慌？本期带你深挖人体内建的 90 分钟超昼夜节律波谷，彻底抛弃把人脑当 24 小时 CPU 的线性生产力误区，用 AI 自动工作流接管机械琐事，并结合 10 分钟 Huberman 神经重置法（生理性叹息 NSDR）快速重置副交感神经，夺回下午的智商高地！</description>
+      <pubDate>Mon, 09 Nov 2026 20:00:00 +0800</pubDate>
+      <guid isPermaLink="false">EP04_20261109.mp3</guid>
+      <enclosure length="9165932" type="audio/mpeg" url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261109/EP04_20261109.mp3" />
+      <itunes:duration>06:21</itunes:duration>
+      <itunes:summary>下午两三点整个人像被拔掉插头，脑子一片浆糊？狂灌能量饮料越喝越心慌？本期带你深挖人体内建的 90 分钟超昼夜节律波谷，彻底抛弃把人脑当 24 小时 CPU 的线性生产力误区，用 AI 自动工作流接管机械琐事，并结合 10 分钟 Huberman 神经重置法（生理性叹息 NSDR）快速重置副交感神经，夺回下午的智商高地！</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>EP03: 别把深夜刷手机当成自控力差（报复性熬夜与多巴胺救赎）</title>
       <description>本期深度探讨了现代人普遍遭遇的“报复性熬夜”现象。从神经生物学来看，日间前额叶皮层能量耗竭（Ego Depletion）导致自控力断崖暴跌，多巴胺基线降至谷底时，大脑会陷入求生本能式的廉价快感抓取，而屏幕蓝光则彻底抑制了褪黑素分泌。从心理层面分析，这折射出‘补偿性控制感错觉’——白天的时间被外部事务剥夺，夜晚刷手机是潜意识在无能狂怒地抢夺‘属于自己的时间’。破局的关键在于摒弃靠意志力自律的执念，通过 AI 晚间自动化关机协议（Nightly Shutdown SOP）聚合全天未结事项并切断蔡加尼克效应，辅以手机屏幕灰度化和物理隔离的极简微动作，彻底解放大脑带宽。
@@ -24,9 +35,9 @@
       <pubDate>Sun, 08 Nov 2026 12:47:00 +0800</pubDate>
       <guid isPermaLink="false">v20261108-深夜刷手机停不下来怎么办_20261108.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261108/EP03_20261108.mp3" length="13913900" type="audio/mpeg" />
-      <ns0:duration>09:39</ns0:duration>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <itunes:duration>09:39</itunes:duration>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>EP02: 戒掉空腹咖啡摆脱算法焦虑（腺苷清除与皮质醇时序重构）</title>
@@ -39,9 +50,9 @@
       <pubDate>Sat, 07 Nov 2026 06:00:00 +0800</pubDate>
       <guid isPermaLink="false">v20261107-戒掉空腹咖啡摆脱算法焦虑_20261107.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261107/EP02_20261107.mp3" length="9146348" type="audio/mpeg" />
-      <ns0:duration>06:38</ns0:duration>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <itunes:duration>06:38</itunes:duration>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>EP01: 别把精力浪费在假勤奋上（复合效应与微决策破局）</title>
@@ -54,9 +65,9 @@
       <pubDate>Fri, 06 Nov 2026 06:00:00 +0800</pubDate>
       <guid isPermaLink="false">v20261106-别把精力浪费在假勤奋上_20261106.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261106/EP01_20261106.mp3" length="7169516" type="audio/mpeg" />
-      <ns0:duration>05:12</ns0:duration>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <itunes:duration>05:12</itunes:duration>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
