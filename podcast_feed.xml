@@ -1,95 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>DailySmart 每日进化 | 肉体 × 认知 × AI</title>
     <link>https://github.com/michaelkowk/DailySmart-Podcast</link>
     <language>zh-cn</language>
     <description>每天 8 分钟双人深度探讨：1个身体健康微习惯 × 1个降维思维模型 × 1个AI生产力外挂。做真实的肉身践行者与超级个体。</description>
-    <ns0:author>DailySmart</ns0:author>
-    <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-    <ns0:category text="Health &amp; Fitness">
-      <ns0:category text="Alternative Health" />
-    </ns0:category>
-    <ns0:owner>
-      <ns0:name>DailySmart</ns0:name>
-      <ns0:email>nickoo@qq.com</ns0:email>
-    </ns0:owner>
+    <itunes:author>DailySmart</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Alternative Health" />
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>DailySmart</itunes:name>
+      <itunes:email>nickoo@qq.com</itunes:email>
+    </itunes:owner>
     <item>
-      <title>《DailySmart》第 20261110 期: 别让午饭谋杀你的黄金下午</title>
-      <description>本期聚焦‘餐后脑雾’现象，揭示了高GI饮食导致的胰岛素波动、反应性低血糖及色氨酸跨过血脑屏障合成血清素的生理机制；从一阶本能快感与二阶认知瘫痪的思维模型出发，指出意志力防线的无效性；最终通过AI Agent自动化定制工作日低GI抗炎餐单，结合比目鱼肌俯卧撑或餐后微步的物理干预，构建不靠自律的精力防线。</description>
-      <pubDate>Mon, 09 Nov 2026 22:19:01 GMT</pubDate>
-      <guid isPermaLink="false">别让午饭谋杀你的黄金下午_20261110.mp3</guid>
-      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261110/别让午饭谋杀你的黄金下午_20261110.mp3" length="8088236" type="audio/mpeg" />
-      <ns0:duration>05:36</ns0:duration>
-      <ns0:summary>本期聚焦‘餐后脑雾’现象，揭示了高GI饮食导致的胰岛素波动、反应性低血糖及色氨酸跨过血脑屏障合成血清素的生理机制；从一阶本能快感与二阶认知瘫痪的思维模型出发，指出意志力防线的无效性；最终通过AI Agent自动化定制工作日低GI抗炎餐单，结合比目鱼肌俯卧撑或餐后微步的物理干预，构建不靠自律的精力防线。</ns0:summary>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <title>EP05: 别让午饭谋杀你的黄金下午（断糖饮食与血脑屏障）</title>
+      <description>午饭刚过半小时，眼皮沉重、思维停滞，下午的工作彻底沦陷？这绝不是因为你偷懒，而是高GI碳水引发的血糖过山车与色氨酸跨过血脑屏障合成血清素的生理骗局！本期视频带你用 AI 自动化外卖工作流和极简比目鱼肌运动，彻底摆脱餐后脑雾，找回巅峰精力。</description>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">EP05_20261110.mp3</guid>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261110/EP05_20261110.mp3" length="8088236" type="audio/mpeg" />
+      <itunes:duration>05:36</itunes:duration>
+      <itunes:summary>午饭刚过半小时，眼皮沉重、思维停滞，下午的工作彻底沦陷？这绝不是因为你偷懒，而是高GI碳水引发的血糖过山车与色氨酸跨过血脑屏障合成血清素的生理骗局！本期视频带你用 AI 自动化外卖工作流和极简比目鱼肌运动，彻底摆脱餐后脑雾，找回巅峰精力。</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>EP04: 下午两点大脑断电？用10分钟神经重置与AI工作流干掉午后昏睡</title>
       <description>下午两三点整个人像被拔掉插头，脑子一片浆糊？狂灌能量饮料越喝越心慌？本期带你深挖人体内建的 90 分钟超昼夜节律波谷，彻底抛弃把人脑当 24 小时 CPU 的线性生产力误区，用 AI 自动工作流接管机械琐事，并结合 10 分钟 Huberman 神经重置法（生理性叹息 NSDR）快速重置副交感神经，夺回下午的智商高地！</description>
       <pubDate>Mon, 09 Nov 2026 20:00:00 +0800</pubDate>
       <guid isPermaLink="false">EP04_20261109.mp3</guid>
-      <enclosure length="9165932" type="audio/mpeg" url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261109/EP04_20261109.mp3" />
-      <ns0:duration>06:21</ns0:duration>
-      <ns0:summary>下午两三点整个人像被拔掉插头，脑子一片浆糊？狂灌能量饮料越喝越心慌？本期带你深挖人体内建的 90 分钟超昼夜节律波谷，彻底抛弃把人脑当 24 小时 CPU 的线性生产力误区，用 AI 自动工作流接管机械琐事，并结合 10 分钟 Huberman 神经重置法（生理性叹息 NSDR）快速重置副交感神经，夺回下午的智商高地！</ns0:summary>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261109/EP04_20261109.mp3" length="9165932" type="audio/mpeg" />
+      <itunes:duration>06:21</itunes:duration>
+      <itunes:summary>下午两三点整个人像被拔掉插头，脑子一片浆糊？狂灌能量饮料越喝越心慌？本期带你深挖人体内建的 90 分钟超昼夜节律波谷，彻底抛弃把人脑当 24 小时 CPU 的线性生产力误区，用 AI 自动工作流接管机械琐事，并结合 10 分钟 Huberman 神经重置法（生理性叹息 NSDR）快速重置副交感神经，夺回下午的智商高地！</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>特辑: 别把恋爱谈成病理诊断（解构亲密关系的算法化执念与独立主体性）</title>
       <description>万物皆可被标签化的时代，我们用 MBTI 和依恋理论把恋爱武装得天衣无缝，却在算法的壁垒中丧失了爱一个真实人类的能力。深度融合纳瓦尔独立自洽、查理·芒格逆向思维与休伯曼多巴胺动力学，揭示现代人把亲密关系工具化、计算化的认知陷阱：真正的反脆弱伴侣关系源于各自独立的生命体与‘缝隙理论’。</description>
       <pubDate>Sun, 08 Nov 2026 21:00:00 +0800</pubDate>
-      <guid isPermaLink="false">SP01_20261108_love.mp3</guid>
-      <enclosure length="7114220" type="audio/mpeg" url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261108-sp/SP01_%E5%88%AB%E6%8A%8A%E6%81%8B%E7%88%B1%E8%B0%88%E6%88%90%E7%97%85%E7%90%86%E8%AF%8A%E6%96%AD.mp3" />
-      <ns0:duration>04:56</ns0:duration>
-      <ns0:summary>万物皆可被标签化的时代，我们用 MBTI 和依恋理论把恋爱武装得天衣无缝，却在算法的壁垒中丧失了爱一个真实人类的能力。深度融合纳瓦尔独立自洽、查理·芒格逆向思维与休伯曼多巴胺动力学，揭示现代人把亲密关系工具化、计算化的认知陷阱：真正的反脆弱伴侣关系源于各自独立的生命体与‘缝隙理论’。</ns0:summary>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <guid isPermaLink="false">SP01_20261108.mp3</guid>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261108-sp/SP01_20261108.mp3" length="7114220" type="audio/mpeg" />
+      <itunes:duration>04:56</itunes:duration>
+      <itunes:summary>万物皆可被标签化的时代，我们用 MBTI 和依恋理论把恋爱武装得天衣无缝，却在算法的壁垒中丧失了爱一个真实人类的能力。深度融合纳瓦尔独立自洽、查理·芒格逆向思维与休伯曼多巴胺动力学，揭示现代人把亲密关系工具化、计算化的认知陷阱：真正的反脆弱伴侣关系源于各自独立的生命体与‘缝隙理论’。</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>EP03: 别把深夜刷手机当成自控力差（报复性熬夜与多巴胺救赎）</title>
-      <description>本期深度探讨了现代人普遍遭遇的“报复性熬夜”现象。从神经生物学来看，日间前额叶皮层能量耗竭（Ego Depletion）导致自控力断崖暴跌，多巴胺基线降至谷底时，大脑会陷入求生本能式的廉价快感抓取，而屏幕蓝光则彻底抑制了褪黑素分泌。从心理层面分析，这折射出‘补偿性控制感错觉’——白天的时间被外部事务剥夺，夜晚刷手机是潜意识在无能狂怒地抢夺‘属于自己的时间’。破局的关键在于摒弃靠意志力自律的执念，通过 AI 晚间自动化关机协议（Nightly Shutdown SOP）聚合全天未结事项并切断蔡加尼克效应，辅以手机屏幕灰度化和物理隔离的极简微动作，彻底解放大脑带宽。
-
-【今日极简落地微习惯】
-1. 今晚睡前完成两步：在手机‘辅助功能’里把屏幕调成黑白灰度模式（瞬间杀死多巴胺）；
-2. 把手机充电器移出卧室，扔到客厅或洗手间，用物理摩擦力切断诱惑。</description>
+      <description>本期深度探讨了现代人普遍遭遇的“报复性熬夜”现象。从神经生物学来看，日间前额叶皮层能量耗竭（Ego Depletion）导致自控力断崖暴跌，多巴胺基线降至谷底时，大脑会陷入求生本能式的廉价快感抓取，而屏幕蓝光则彻底抑制了褪黑素分泌。从心理层面分析，这折射出‘补偿性控制感错觉’——白天的时间被外部事务剥夺，夜晚刷手机是潜意识在无能狂怒地抢夺‘属于自己的时间’。破局的关键在于摒弃靠意志力自律的执念，通过 AI 晚间自动化关机协议（Nightly Shutdown SOP）聚合全天未结事项并切断蔡加尼克效应，辅以手机屏幕灰度化和物理隔离的极简微动作，彻底解放大脑带宽。</description>
       <pubDate>Sun, 08 Nov 2026 12:47:00 +0800</pubDate>
-      <guid isPermaLink="false">v20261108-深夜刷手机停不下来怎么办_20261108.mp3</guid>
+      <guid isPermaLink="false">EP03_20261108.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261108/EP03_20261108.mp3" length="13913900" type="audio/mpeg" />
-      <ns0:duration>09:39</ns0:duration>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <itunes:duration>09:39</itunes:duration>
+      <itunes:summary>本期深度探讨了现代人普遍遭遇的“报复性熬夜”现象。从神经生物学来看，日间前额叶皮层能量耗竭（Ego Depletion）导致自控力断崖暴跌，多巴胺基线降至谷底时，大脑会陷入求生本能式的廉价快感抓取，而屏幕蓝光则彻底抑制了褪黑素分泌。从心理层面分析，这折射出‘补偿性控制感错觉’——白天的时间被外部事务剥夺，夜晚刷手机是潜意识在无能狂怒地抢夺‘属于自己的时间’。破局的关键在于摒弃靠意志力自律的执念，通过 AI 晚间自动化关机协议（Nightly Shutdown SOP）聚合全天未结事项并切断蔡加尼克效应，辅以手机屏幕灰度化和物理隔离的极简微动作，彻底解放大脑带宽。</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>EP02: 戒掉空腹咖啡摆脱算法焦虑（腺苷清除与皮质醇时序重构）</title>
-      <description>你以为早晨起床一杯美式是自律与高效？神经科学真相会让你大吃一惊：起床后体内天然皮质醇正处于峰值，此时灌入咖啡因不仅无法提神，还会阻断腺苷清除机制，导致午后精神断崖式崩盘与深层焦虑。今天我们从 Huberman 神经机制切入，讲透如何用90分钟时序法则与AI工作流，重构你一整天的精力闭环。
-
-【本期核心要点】
-1. 身体微习惯：起床先补 500ml 温水加微量矿物质，将第一杯咖啡推迟至醒后 90-120 分钟；
-2. 认知思维模型：创作心理锚点与精力折现率，不被即时算法反馈绑架；
-3. AI生产力外挂：把低脑力、重复性碎片沟通外包给自动化 Agent，把最高清晨精力留给深度创造。</description>
+      <description>你以为早晨起床一杯美式是自律与提神的标配？神经生物学告诉你：过早摄入咖啡因会阻断腺苷正常清除，导致午后精神断崖式崩盘与深层焦虑。本期带你重构晨间皮质醇节律，交付一套醒后 90-120 分钟延时饮用协议，彻底打破虚假清醒。</description>
       <pubDate>Sat, 07 Nov 2026 06:00:00 +0800</pubDate>
-      <guid isPermaLink="false">v20261107-戒掉空腹咖啡摆脱算法焦虑_20261107.mp3</guid>
+      <guid isPermaLink="false">EP02_20261107.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261107/EP02_20261107.mp3" length="9146348" type="audio/mpeg" />
-      <ns0:duration>06:38</ns0:duration>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <itunes:duration>06:38</itunes:duration>
+      <itunes:summary>你以为早晨起床一杯美式是自律与提神的标配？神经生物学告诉你：过早摄入咖啡因会阻断腺苷正常清除，导致午后精神断崖式崩盘与深层焦虑。本期带你重构晨间皮质醇节律，交付一套醒后 90-120 分钟延时饮用协议，彻底打破虚假清醒。</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>EP01: 别把精力浪费在假勤奋上（复合效应与微决策破局）</title>
-      <description>你以为每天打卡、苦心孤诣就是复利？错！如果你的身体基础处于负平衡，或者天天被琐碎微决策凌迟，你的一切努力都是‘负复利’。今天我们从神经科学与AI自动化切入，教你如何用傻瓜式动作重构底层系统。
-
-【本期核心要点】
-1. 身体微习惯：晨间皮质醇自然时序与推迟90分钟咖啡因摄入；
-2. 认知思维模型：复合效应与内部积分卡；
-3. AI生产力外挂：用AI Agent外包每日低价值碎片沟通。</description>
+      <description>你以为每天打卡、苦心孤诣就是复利？错！如果你的身体基础处于负平衡，或者天天被琐碎微决策凌迟，你的一切努力都是‘负复利’。今天我们从神经科学与AI自动化切入，教你如何用傻瓜式动作重构底层系统，打破表演性努力陷阱。</description>
       <pubDate>Fri, 06 Nov 2026 06:00:00 +0800</pubDate>
-      <guid isPermaLink="false">v20261106-别把精力浪费在假勤奋上_20261106.mp3</guid>
+      <guid isPermaLink="false">EP01_20261106.mp3</guid>
       <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261106/EP01_20261106.mp3" length="7169516" type="audio/mpeg" />
-      <ns0:duration>05:12</ns0:duration>
-      <ns0:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
-      <ns0:explicit>false</ns0:explicit>
+      <itunes:duration>05:12</itunes:duration>
+      <itunes:summary>你以为每天打卡、苦心孤诣就是复利？错！如果你的身体基础处于负平衡，或者天天被琐碎微决策凌迟，你的一切努力都是‘负复利’。今天我们从神经科学与AI自动化切入，教你如何用傻瓜式动作重构底层系统，打破表演性努力陷阱。</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
