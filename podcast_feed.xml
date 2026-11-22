@@ -15,6 +15,17 @@
       <itunes:email>nickoo@qq.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>EP20: 别当历史博物馆管理员，把生活废料搓成反脆弱武器</title>
+      <description>本期深度拆解‘翻篇力’的神经生物学机制与反脆弱心智模型。我们探讨了为何‘强迫性反刍’是代价最高昂的心理内耗，以及如何运用‘鸡毛掸子定律’将生活创伤重组为不可摧毁的演化资产。</description>
+      <pubDate>Sun, 22 Nov 2026 07:15:13 GMT</pubDate>
+      <guid isPermaLink="false">EP20_20261120.mp3</guid>
+      <enclosure url="https://github.com/michaelkowk/DailySmart-Podcast/releases/download/v20261120/EP20_20261120.mp3" length="13094828" type="audio/mpeg" />
+      <itunes:duration>09:05</itunes:duration>
+      <itunes:summary>本期深度拆解‘翻篇力’的神经生物学机制与反脆弱心智模型。我们探讨了为何‘强迫性反刍’是代价最高昂的心理内耗，以及如何运用‘鸡毛掸子定律’将生活创伤重组为不可摧毁的演化资产。</itunes:summary>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/michaelkowk/DailySmart-Podcast@main/cover_v3_titanium_gold_enlarged.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP19: 别再给自己打工，AI全自动业务流</title>
       <description>本期聚焦‘开源多智能体框架（Multi-Agent Frameworks）’作为纳瓦尔‘无许可杠杆’的终极形态。底层逻辑在于利用系统2的架构能力，将复杂业务拆解为感知、决策、执行三个维度。通过LangChain/AutoGPT等框架，将单一任务外包给具备特定Prompt约束的智能体网络，实现认知带宽的解放。核心在于从‘亲自耕作’切换为‘系统架构师’视角，利用二阶思维预测AI交互的潜在熵增，建立基于工作流的自动化防线。</description>
       <pubDate>Thu, 19 Nov 2026 12:45:03 GMT</pubDate>
